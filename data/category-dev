@@ -13,6 +13,7 @@ include:embedly
 include:facebook-dev
 include:fastlane
 include:fedora
+include:firebase
 include:flatpak
 include:flutter
 include:fontawesome
@@ -35,6 +36,8 @@ include:kubernetes
 include:microsoft-dev
 include:mongodb
 include:nginx
+include:nixos
+include:openai
 include:openwrt
 include:osdn
 include:perl
@@ -49,6 +52,7 @@ include:ruby
 include:rust
 include:redhat
 include:scala
+include:sourcehut
 include:stackexchange
 include:strikingly
 include:tencent-dev
@@ -115,7 +119,6 @@ mysql.com
 nixos.org
 nodesource.com
 notepad-plus-plus.org
-openai.com
 openresty.org
 openssl.org
 opensuse.org
@@ -153,3 +156,6 @@ x.org
 xposed.info
 yarnpkg.com
 zsh.org
+
+# Hugging Face official website.
+huggingface.co

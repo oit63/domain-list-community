@@ -137,8 +137,17 @@ full:asusrouter.com
 full:router.asus.com
 full:www.asusrouter.com
 
+# Cloudflare
+full:cp.cloudflare.com
+
+# Firefox
+full:detectportal.firefox.com
+
 # KDE
 networkcheck.kde.org
+
+# Mozilla Location Service
+location.services.mozilla.com
 
 # Netgear router
 # Reference: https://kb.netgear.com/27199/I-can-t-access-my-router-what-do-I-do
@@ -162,6 +171,9 @@ plex.direct
 localhost.sec.qq.com
 localhost.ptlogin2.qq.com
 
+# Steam Deck Game mode
+test.steampowered.com
+
 # Tenda router
 tendawifi.com
 
@@ -177,7 +189,12 @@ msftncsi.com
 # Xiaomi router
 # Reference: https://www1.miwifi.com/miwifi_faq.html
 full:miwifi.com
-full:www.mifiwi.com
+full:www.miwifi.com
 
 # ZTE router
 zte.home
+
+
+# Tailscale Magic DNS
+# Reference: https://tailscale.com/kb/1081/magicdns/#fully-qualified-domain-names-vs-machine-names
+ts.net

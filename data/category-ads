@@ -14,6 +14,7 @@ include:bytedance-ads
 include:category-ads-ir
 include:clearbitjs-ads
 include:dmm-ads
+include:duolingo-ads
 include:emogi-ads
 include:flurry-ads
 include:google-ads
@@ -36,6 +37,7 @@ include:newrelic-ads
 include:ogury-ads
 include:onesignal-ads
 include:ookla-speedtest-ads
+include:openx-ads
 include:pocoiq-ads
 include:pubmatic-ads
 include:segment-ads
@@ -81,6 +83,9 @@ eroadvertising.com
 exoclick.com
 exosrv.com
 go2.global
+gozendata.com
+gzads.com
+gz-data.com
 img-bss.csdn.net
 imglnkc.com
 imglnkd.com
@@ -93,6 +98,7 @@ kepler-37b.com
 lqc006.com
 moat.com
 moatads.com
+mobwithad.com
 realsrv.com
 s4yxaqyq95.com
 shhs-ydd8x2.yjrmss.cn
@@ -100,9 +106,16 @@ static.javhd.com
 tm-banners.gamingadult.com
 trafficfactory.biz
 tsyndicate.com
+wwads.cn
 
 # 36Kr
 adx.36kr.com
+
+# AdHub
+hubcloud.com.cn
+
+# AdScope
+beizi.biz
 
 # ali213
 click.ali213.net
@@ -126,4 +139,11 @@ ad.unimhk.com
 
 # UCloud
 das-rpt-log.ucloud.cn
+
+# 数字精准广告
+telecome.cn
+unioncom.cc
+
+# 数字联盟(device ad id)
+shuzilm.cn
 
